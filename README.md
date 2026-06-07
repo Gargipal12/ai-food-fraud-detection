@@ -34,6 +34,9 @@ This project helps by:
 | F1-Score (macro) | 0.86 |
 | Equal Error Rate | Low |
 
+## 🖥️ Live Demo Screenshot
+![App Demo](https://raw.githubusercontent.com/Gargipal12/ai-food-fraud-detection/main/Screenshot%202026-06-08%20041511.png)
+
 ## 🧠 Detection Pipeline
 Input Image
 │
