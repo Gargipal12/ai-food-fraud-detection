@@ -1,4 +1,5 @@
 # 🍔 AI Food Fraud Detection
+🚀 **Live Demo:** [Try it here](https://huggingface.co/spaces/Gargi002/ai-food-fraud-detection)
 Detects AI-generated or manipulated food images used in fraudulent refund claims on food delivery platforms like Uber Eats and DoorDash.
 
 ## 🎯 What This Project Does
